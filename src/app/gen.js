@@ -33,7 +33,7 @@ function UserForm() {
       <!DOCTYPE html>
       <html>
         <head>
-          <title>User Information</title>
+          <title>${name} - Business Card </title>
         </head>
         <body>
           <h1>User Information</h1>
